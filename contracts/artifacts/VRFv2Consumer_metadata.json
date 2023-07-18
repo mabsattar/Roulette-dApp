@@ -335,11 +335,11 @@
 			]
 		},
 		"contracts/roulette.sol": {
-			"keccak256": "0x9abd7947b416c945249132c47a74dfb255501e988de8bd471e62b64fa55b9ea5",
+			"keccak256": "0x37ef66b1374d309c70993d76d81c87e9e0a05ada1caab474aa353224b34e8f55",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://93611fa4765c764aebfb32900b3c5a9f2d1ba4965dea3317448e61714cae5a5a",
-				"dweb:/ipfs/QmWtRauo94CVrkumA8YvBioZxs5CWmatZ4wfqCMYLCszKu"
+				"bzz-raw://ad4d5908d5ae5edcafaab68d4e5fa708608f084487cfba21816382613907168c",
+				"dweb:/ipfs/QmRsybQxt2A5ncM2JVTdf9i8vyhmjRCKV5MnseRS9XYP6n"
 			]
 		}
 	},
